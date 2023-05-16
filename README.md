@@ -1,5 +1,5 @@
-# SML_ex with @github/nandormarosi
-
+# SML_ex
+@github/nandormarosi
 * **a**: Határozza meg az *n* szám páros osztói számát.
 * **b**: Írjuk fel egy lista azon részlistáit, melyekben a számjegyek összege prímszám.
 * **c**: Egy szám palindrom, ha visszafelé olvasva ugyanazt a számot adja. Keressük meg a két háromjegyű szám szorzataként előálló legnagyobb palindromot.
