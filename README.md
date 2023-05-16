@@ -1,4 +1,4 @@
-# SML_ex
+# SML_ex with @nandormarosi
 
 * **a**: Határozza meg az *n* szám páros osztói számát.
 * **b**: Írjuk fel egy lista azon részlistáit, melyekben a számjegyek összege prímszám.
